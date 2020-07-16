@@ -1,0 +1,68 @@
+[
+	{
+		"productId": 1,
+		"productName": "Amazon Aurora",
+		"productCode": "MOB-120",
+		"description": "64GB, Coral Blue",
+		"price": 60569,
+		"imageUrl": "assets/imgs/Amazon Aurora.jpg",
+		"manufacturer": "AWS",
+		"ostype": "Android",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "Amazon Redshift",
+		"productCode": "MOB-124",
+		"description": "64GB, Gold",
+		"price": 60200,
+		"imageUrl": "assets/imgs/Amazon Redshift.jpg",
+		"manufacturer": "AWS",
+		"ostype": "Android",
+		"rating": 4
+	},
+	{
+		"productId": 3,
+		"productName": "GCP Cloud SQL",
+		"productCode": "MOB-125",
+		"description": "8GB, Black",
+		"price": 14990,
+		"imageUrl": "assets/imgs/Cloud SQL.jpg",
+		"manufacturer": "GCP",
+		"ostype": "Windows",
+		"rating": 4.3
+	},
+	{
+		"productId": 4,
+		"productName": "GCP Firestore",
+		"productCode": "MOB-126",
+		"description": "16GB, Gold",
+		"price": 40501,
+		"imageUrl": "assets/imgs/Firestore.jpg",
+		"manufacturer": "GCP",
+		"ostype": "iOS",
+		"rating": 4.2
+	},
+	{
+		"productId": 5,
+		"productName": "Azure Cosmos DB",
+		"productCode": "MOB-127",
+		"description": "32GB, Black",
+		"price": 51950,
+		"imageUrl": "assets/imgs/Azure Cosmos DB.jpg",
+		"manufacturer": "Azure",
+		"ostype": "Windows",
+		"rating": 4.3
+	},
+	{
+		"productId": 6,
+		"productName": "Azure SQL Database",
+		"productCode": "MOB-128",
+		"description": "32GB, Gold",
+		"price": 34900,
+		"imageUrl": "assets/imgs/Azure SQL Database.jpg",
+		"manufacturer": "Azure",
+		"ostype": "Android",
+		"rating": 4
+	}
+]

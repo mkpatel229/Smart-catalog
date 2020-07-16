@@ -1,0 +1,57 @@
+[
+	{
+		"productId": 1,
+		"productName": "Amazon EC2",
+		"productCode": "TAB-120",
+		"description": "Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.",
+		"price": 19442,
+		"imageUrl": "assets/imgs/ec2.jpg",
+		"manufacturer": "AWS",
+		"ostype": "iOS",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "AWS Lambda",
+		"productCode": "TAB-124",
+		"description": "64GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/AWS Lambda.jpg",
+		"manufacturer": "AWS",
+		"ostype": "iOS",
+		"rating": 3
+	},
+	{
+		"productId": 3,
+		"productName": "GCP (E2)",
+		"productCode": "TAB-125",
+		"description": "8GB, Gold",
+		"price": 13400,
+		"imageUrl": "assets/imgs/General purpose (E2).jpg",
+		"manufacturer": "GCP",
+		"ostype": "Android",
+		"rating": 4
+	},
+	{
+		"productId": 4,
+		"productName": "GCP Memory optimized (M2)",
+		"productCode": "TAB-126",
+		"description": "8GB, Black",
+		"price": 3350,
+		"imageUrl": "assets/imgs/General purpose (E2).jpg",
+		"manufacturer": "GCP",
+		"ostype": "Android",
+		"rating": 3
+	},
+	{
+		"productId": 5,
+		"productName": "Azure Virtual Machines",
+		"productCode": "TAB-126",
+		"description": "8GB, Black",
+		"price": 3350,
+		"imageUrl": "assets/imgs/Virtual Machines.jpg",
+		"manufacturer": "Azure",
+		"ostype": "Android",
+		"rating": 3
+	}
+]
